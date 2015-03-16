@@ -1,5 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+# I've made first changes in document. Now I'll try to sync it with GitHub.
 
 ## Write a short comment describing this function
 
